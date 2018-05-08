@@ -1,0 +1,25 @@
+html {
+    line-height: 1.5em;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    margin: auto;
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+
+a {
+    color: #333333;
+}
+
+a:hover {
+    color: #045b9d;
+}
+
+.content{
+    min-height: 20em;
+    margin: 0px auto;
+    margin-top: 1em;
+}
